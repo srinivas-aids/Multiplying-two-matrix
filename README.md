@@ -33,5 +33,7 @@ print("Product of two arrays is:",result)
 ~~~
 ## OUTPUT:
 ![output](./images/111.jpg)
+
 ## RESULT:
 
+Thus the python program to multiply two arrays using numpy is successfully executed.
